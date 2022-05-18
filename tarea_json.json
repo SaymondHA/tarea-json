@@ -1,0 +1,37 @@
+{
+    "nombre": "Saymond HA",
+    "direccion": "Fraycasiano,Chacarita,Puntarenas",
+    "comida_preferida": "Hamburguesas",
+    "Animales": {
+        "perro1": [
+            "chispa",
+            "Raza mixta"
+        ],
+        "perro2": [
+            "bela",
+            "labradora"
+        ],
+        "perro3": [
+            "tino",
+            "doberman pincher"
+        ]
+    },
+    "informacion_complementarias": [
+        {
+            "detalles": [
+                {
+                    "cabello": "negro"
+                },
+                {
+                    "musica_preferida": "hiphop"
+                }
+            ]
+        }
+    ],
+    "edad": 18,
+    "metadata": {
+        "page": 1,
+        "total_pages": 1,
+        "keys": 10
+    }
+}
